@@ -97,8 +97,7 @@ graph LR
 
 #### 计算机入门概念
 
-- 什么是计算机
-- 计算机的基本组成（硬件/软件）
+- [计算机基础](计算机基础/计算机基础.md)
 - 操作系统简介（Windows/Linux/macOS）
 - 文件管理基础
 
@@ -125,7 +124,7 @@ graph LR
 
 #### 效率工具链
 
-- 文本编辑器（ [VS Code](.\VSCode\VS_Code高效使用指南.md) ）
+- 文本编辑器（ [VS Code](VSCode\VS_Code高效使用指南.md) ）
 - 笔记软件（Notion/语雀）
 
 ### 3. 编程基础入门
